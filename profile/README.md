@@ -1,4 +1,4 @@
-<img align="center" src="NeverFoundProject/.github/assets/YoutubeBanner.png" alt="wronadev" />
+<img align="center" src="https://raw.githubusercontent.com/NeverFoundProject/.github/main/assets/YoutubeBanner.png" alt="NeverFoundIcon" />
 
 # Never Found
 
